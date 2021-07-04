@@ -120,7 +120,7 @@ body {
     margin-right: auto;
     padding-top: 2vw;
     padding-bottom: 2vw;
-    font-size: 2.5vh;
+    font-size: 1.5vh;
     border: 0px;
 }
 
@@ -148,7 +148,7 @@ model-viewer{
 
 @font-face {
     font-family: Dosis-ExtraLight;
-    src: url("fonts/Dosis-ExtraLight.ttf") format('truetype');
+    src: url("font.ttf") format('truetype');
 }
 
 @font-face {

@@ -111,7 +111,7 @@ body {
 
 .textContent {
     color: white;
-    font-family: 'Dosis-ExtraLight', Aerial, sans-serif;
+    font-family: 'D', Aerial, sans-serif;
     text-align: center;
     display: block;
     max-height: 100%;
@@ -147,7 +147,7 @@ model-viewer{
 }
 
 @font-face {
-    font-family: Dosis-ExtraLight;
+    font-family: D;
     src: url("font.ttf") format('truetype');
 }
 

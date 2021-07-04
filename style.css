@@ -153,5 +153,5 @@ model-viewer{
 
 @font-face {
     font-family: Dosis-SemiBold;
-    src: url("fonts/Dosis-SemiBold.ttf") format('truetype');
+    src: url("font.ttf") format('truetype');
 }
